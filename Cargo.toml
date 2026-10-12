@@ -1,0 +1,7 @@
+[package]
+name = "harmonic_compat"
+version = "0.1.0"
+edition = "2021"
+description = "A pure, deterministic harmonic compatibility model over exact rationals for architectural referents."
+
+[dependencies]
