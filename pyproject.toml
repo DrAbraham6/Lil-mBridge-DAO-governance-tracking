@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "odab"
+version = "0.1.0"
+description = "Orchid Data Analysis Bot - Governed analytical agent"
+dependencies = []
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
